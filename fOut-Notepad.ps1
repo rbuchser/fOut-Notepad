@@ -1,4 +1,4 @@
-﻿Function fOut-Notepad {
+Function fOut-Notepad {
 	<#
 		.NOTES
 			Author: Buchser Roger
